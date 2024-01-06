@@ -7,7 +7,7 @@ This project harnesses predictive analytics to discern and anticipate crime patt
 The key objective of this project is to fill the gap in public knowledge regarding local crime activities. By leveraging data analytics, the project aims to offer a proactive approach to community safety.
 
 ## Methodology
-Our approach involves a thorough analysis of crime data from the LAPD and environmental data from Visual Crossing. The methodology is grounded in combining these datasets and extracting meaningful patterns through advanced analytics.
+The approach involves a thorough analysis of crime data from the LAPD and environmental data from Visual Crossing. The methodology is grounded in combining these datasets and extracting meaningful patterns through advanced analytics.
 
 ## Data Description and Feature Engineering
 An extensive dataset from the LAPD that includes various crime reports is used. This data is complemented with environmental factors obtained from Visual Crossing. Feature engineering plays a crucial role in preparing this data for predictive modeling.
