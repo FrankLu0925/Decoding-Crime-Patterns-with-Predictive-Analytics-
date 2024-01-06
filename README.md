@@ -1,4 +1,4 @@
-# Data Detectives: Decoding Crime Patterns with Predictive Analytics
+# Decoding Crime Patterns with Predictive Analytics
 
 ## Overview
 This project harnesses predictive analytics to discern and anticipate crime patterns in Los Angeles, aiming to bolster public safety. It seeks to empower residents with essential, actionable insights about prospective criminal activities in their neighborhoods.
